@@ -7,6 +7,7 @@
 
 <svelte:head>
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <title>learn how to pycode</title>
 </svelte:head>
 
 <!-- +page.svelte or layout -->
